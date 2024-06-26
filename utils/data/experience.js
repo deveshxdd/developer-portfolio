@@ -2,8 +2,8 @@ export const experiences = [
   {
     id: 1,
     title: 'Software Engineer I',
-    company: "Teton Private Ltd.",
-    duration: "(Jan 2022 - Present)"
+    company: "POV PRODUCKTION.",
+    duration: "(feb 2024 - march 2024)"
   },
   {
     id: 2,
